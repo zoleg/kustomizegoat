@@ -7,5 +7,5 @@ jobs:
       - checkout
       - bridgecrew/scan:
           directory: .
-          api-key-variable: 8fb16fda-fcab-45a5-a274-f4fe86005f7b 
+          api-key-variable: 8fb16fda-fcab-45a5-a274-f4fe86005f7b:aSmQZ+cI7sJi2QQCKjlALhMbtyI= 
           prisma-api-url: https://api.eu.prismacloud.io
