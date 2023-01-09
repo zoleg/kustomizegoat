@@ -10,3 +10,4 @@ jobs:
           directory: .
           api-key-variable: BC_API_KEY 
           prisma-api-url: https://api.eu.prismacloud.io
+          
